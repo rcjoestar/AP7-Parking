@@ -8,11 +8,12 @@ Pages publiques :
 
 PAGES ESPACE MEMBRE : 
 - Tableau de bord des membres > /membre
+- Mon compte > /membre/mon-compte
+- Edition du mot de passe > /membre/mon-compte/modifier-mdp
 - Consulter sa/ses reservation(s) > /membre/réservation
 - Demander une place de parking > /membre/reservation/demander
 - Liste d'attente > /membre/file-attente
 - Historique des places > membre/historique
-- Edition du mot de passe > /membre/modifier-mdp
 
   PAGES ESPACE ADMINISTRATEUR :
   - Tableau de bord des admins > /admin
